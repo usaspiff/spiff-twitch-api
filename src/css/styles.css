@@ -1,0 +1,32 @@
+body{
+  background-image:url("https://images.unsplash.com/10/wii.jpg?dpr=1.25&amp;auto=compress,format&amp;fit=crop&amp;w=568&amp;h=379&amp;q=80&amp;cs=tinysrgb&amp;crop=&quot;");
+  background-position:center center;
+  color:yellow;
+  font-family:"courier";
+  background-size:cover;
+}
+#header{
+  background:rgba(0,0,0,.6);
+  border:5px brown solid;
+  border-radius:25px;
+}
+img{
+  width:100px;
+  border-radius:28%;
+}
+.col-md-4{
+  padding:5px;
+}
+.row{
+  background:rgba(0,0,0,.6);
+  border: 3px brown solid;
+  border-radius:35px;
+  margin:10px;
+}
+a:link {
+    color: white;
+}
+#followerInfo{
+  color: yellow;
+  font-size: 18px;
+}
